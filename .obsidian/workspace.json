@@ -1,0 +1,276 @@
+{
+  "main": {
+    "id": "caf8e9ddd67ec9fc",
+    "type": "split",
+    "children": [
+      {
+        "id": "af67202f11d13525",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "720b29de87bc070d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Projects/FOP/Meeting about FOP in Sabre.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Meeting about FOP in Sabre"
+            }
+          },
+          {
+            "id": "51ecd7f0842a517f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Daily/2026-07-17.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2026-07-17"
+            }
+          },
+          {
+            "id": "91c31dddb1f6a704",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Warroom.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Warroom"
+            }
+          },
+          {
+            "id": "c12df6b4c530cabf",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Scratchpad.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Scratchpad"
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "dfd71064512428e3",
+    "type": "split",
+    "children": [
+      {
+        "id": "8119d7fff04110ad",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b7a5770be81e28bf",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "5528e9b0149798b0",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "6c25bebff78cbfef",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "5054a3d424003622",
+    "type": "split",
+    "children": [
+      {
+        "id": "98da8b47fee62234",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "41f888787d77cd83",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Daily/2026-07-17.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for 2026-07-17"
+            }
+          },
+          {
+            "id": "429710f4df3bd6c2",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Daily/2026-07-17.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from 2026-07-17"
+            }
+          },
+          {
+            "id": "9f9f5ea6c5286429",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "76ceeacf0ee6572a",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "72c962778e8af509",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Daily/2026-07-17.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of 2026-07-17"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false,
+      "obsidian-excalidraw-plugin:New drawing": false
+    }
+  },
+  "active": "c12df6b4c530cabf",
+  "lastOpenFiles": [
+    "Warroom.md",
+    "Scratchpad.md",
+    "Daily/2026-07-17.md",
+    "Code Notes/Mobile Build Commands.md",
+    "Code Notes/Code Review Tool Changes.md",
+    "Excalidraw/Drawing 2026-07-09 11.03.06.excalidraw.md",
+    "Projects/FOP/Meeting about FOP in Sabre.md",
+    "Excalidraw",
+    "Projects/Offline Approvals/Offline Approvals Meeting on 2026-7-8.md",
+    "Projects/FOP/Old FOP Commits.md",
+    "Projects/Offline Approvals",
+    "Testing/Flight Booking Test/Flight Booking Test.md",
+    "Testing/Flight Booking Test/Pasted image 20260707144401.png",
+    "Testing/Flight Booking Test",
+    "Testing/Flight Booking Test/Pasted image 20260707144234.png",
+    "Testing/Flight Booking Test/Pasted image 20260707144001.png",
+    "Testing/Flight Booking Test/Pasted image 20260707142940.png",
+    "Testing/Flight Booking Test/Pasted image 20260707142835.png",
+    "Testing/Flight Booking Test/Pasted image 20260707142713.png",
+    "Projects/FOP/Checkout.md",
+    "Testing",
+    "Sabre/Meeting Notes from JLaw.md",
+    "Teams/Blitz/Blitz Team Priorities.md",
+    "Projects/Foreign Currency/Foreign Currency.md",
+    "Teams/Blitz/Blitz Projects.excalidraw.md",
+    "Teams/Blitz/Untitled.canvas",
+    "Teams/Blitz/Drawing 2026-07-02 10.30.53.excalidraw.md",
+    "Projects/GBTA-2026/GBTA-2026.md",
+    "Projects/FOP/Checkout Screen.md",
+    "Sabre",
+    "Daily/2026-07-01.md",
+    "Projects/GBTA-2026",
+    "Daily/2026-06-30.md",
+    "Reports/__pycache__/dashboard_open.cpython-314.pyc",
+    "Reports/dashboard_open.py",
+    "Daily/2026-06-29.md",
+    "Daily/2026-06-26.md",
+    "Daily/2026-06-25.md",
+    "Projects/Foreign Currency",
+    "People/Michael Cameron.md",
+    "People/Joshua Cameron.md",
+    "People/Clay Andrus.md",
+    "People/People.md.tmp.5172.f555bc62be06"
+  ]
+}
