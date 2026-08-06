@@ -34,5 +34,8 @@ The directory is an **Obsidian vault** (note the `.obsidian/` config folder), so
 - Prefer Markdown for new content. Keep notes concise and well-structured with headings.
 - When creating new notes, place them in the most relevant existing folder rather than the root.
 - **Folder hub convention:** each folder has a hub note named after the folder (e.g. `Projects/FOP/FOP.md`, `People/People.md`); the vault root's hub is `Home.md`. The hub links to the notes in its folder and to the hub of each subfolder, so the whole vault stays connected in graph view. When you add a note or subfolder, link it from the folder's hub. (Some folders, like `Teams/<Team>/`, use their existing folder-named note as the hub.)
+- **Exempt from the hub convention:** `Excalidraw/` is a plugin-managed attachment folder, and root-level `Scratchpad.md` is deliberate ephemeral scratch space. Neither needs a hub note or inbound links — don't flag them as orphans.
+- **One entry point per folder:** the folder-named hub note holds the folder's Purpose/Current state/Technical notes *and* the index of its child notes. Don't add a separate `README.md` alongside a hub.
 - **Date-stamp status updates:** When adding a current-status or progress item to a non-daily note (People, Teams, Projects, etc.), tag it with the date it was added and, when the item came from or is recorded in a daily note, link that note — e.g. `- (2026-06-29, see [[Daily/2026-06-29]]) …`. This lets us track and spot stale statuses later.
+- **Dated meeting notes:** name them `<Topic> Meeting YYYY-MM-DD.md` with a zero-padded ISO date (e.g. `FOP in Sabre Meeting 2026-07-08.md`).
 - Treat any non-public company information as confidential and avoid including secrets or sensitive data in notes.

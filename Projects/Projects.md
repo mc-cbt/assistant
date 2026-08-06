@@ -10,6 +10,7 @@
 - [[Projects/FOP/FOP|FOP]]
 - [[Projects/Foreign Currency/Foreign Currency|Foreign Currency]]
 - [[Projects/GBTA-2026/GBTA-2026|GBTA-2026]]
+- [[Projects/Offline Approvals/Offline Approvals|Offline Approvals]]
 - [[Projects/PR Dashboard/PR Dashboard|PR Dashboard]]
 - [[Projects/Trip Name/Trip Name|Trip Name]]
 - [[Projects/Virtual Cards/Virtual Cards|Virtual Cards]]

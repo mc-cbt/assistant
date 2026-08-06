@@ -1,5 +1,19 @@
-# Agent Orchestration Index
+# Agent Orchestration
+
+## Purpose
+
+Set up the agent orchestration plugins I've created in my personal GitHub account.
+
+## Next steps
+
+- [ ] Set up / wire in the agent orchestration plugins from my personal GitHub account.
+- [ ] Look into **"ultracode"** from Claude.
+
+## Ideas / TODO
+
+- **Code review agent:** update it to run multiple code review processes as sub-agents (fan out the review across parallel sub-agents rather than a single pass).
+- **Explainer skill:** add to its instructions that it should document any new endpoints the PR adds.
 
 ## Notes
 
-- [[Projects/Agent Orchestration/README|README]]
+- Qwen 3.6 MLX runs in OpenCode with `ollama run qwen3.6`. Better results come from a custom Modelfile — see [[Projects/Agent Orchestration/Modelfile.qwen36-custom|Modelfile.qwen36-custom]].

@@ -1,0 +1,7 @@
+# macOS
+.DS_Store
+
+# Python (Reports/ dashboards)
+.venv/
+__pycache__/
+*.pyc

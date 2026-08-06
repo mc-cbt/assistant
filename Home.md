@@ -17,5 +17,7 @@ Home index for the vault. Links out to every top-level note and into each subdir
 - [[People/People|People]]
 - [[Projects/Projects|Projects]]
 - [[Reports/Reports|Reports]]
+- [[Sabre/Sabre|Sabre]]
 - [[Teams/Teams|Teams]]
+- [[Testing/Testing|Testing]]
 - [[Travel Industry Primer/Travel Industry Primer|Travel Industry Primer]]
