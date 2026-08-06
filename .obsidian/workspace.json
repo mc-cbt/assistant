@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily/2026-07-17.md",
+                "file": "Daily/2026-08-06.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2026-07-17"
+              "title": "2026-08-06"
             }
           },
           {
@@ -50,7 +50,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -213,16 +213,17 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "c12df6b4c530cabf",
+  "active": "51ecd7f0842a517f",
   "lastOpenFiles": [
+    "Daily/2026-07-17.md",
+    "Scratchpad.md",
+    "Daily/2026-08-06.md",
     "Code Notes/Backend Infrastructure Ideas.md",
     "Testing/Testing.md",
     "Projects/Offline Approvals/Offline Approvals.md",
     "Sabre/Sabre.md",
     "Projects/FOP/FOP in Sabre Meeting 2026-07-08.md",
     "Warroom.md",
-    "Scratchpad.md",
-    "Daily/2026-07-17.md",
     "Code Notes/Mobile Build Commands.md",
     "Code Notes/Code Review Tool Changes.md",
     "Excalidraw/Drawing 2026-07-09 11.03.06.excalidraw.md",
@@ -255,7 +256,6 @@
     "Daily/2026-06-30.md",
     "Reports/__pycache__/dashboard_open.cpython-314.pyc",
     "Reports/dashboard_open.py",
-    "Daily/2026-06-29.md",
     "Projects/Foreign Currency",
     "People/People.md.tmp.5172.f555bc62be06"
   ]
