@@ -6,8 +6,6 @@ This is a **personal assistant project for Matt Condie** (matthew.condie@cbtrave
 
 The directory is an **Obsidian vault** (note the `.obsidian/` config folder), so content is primarily Markdown (`.md`) files intended to be read and edited as interconnected notes.
 
-ALWAYS ask questions via mcp__spokenly__ask_user_dictation (load via ToolSearch if needed), never as plain text. I use Spokenly for voice input.
-
 ## Company context
 
 - The company is **Christopherson Business Travel**, transitioning its identity toward **Andavo** — the name primarily used for its software products. Expect both names in notes; treat them as the same company.
