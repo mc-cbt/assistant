@@ -14,6 +14,7 @@ Home index for the vault. Links out to every top-level note and into each subdir
 - [[Code Notes/Code Notes|Code Notes]]
 - [[Coding Documentation/Coding Documentation|Coding Documentation]]
 - [[Daily/Daily|Daily]]
+- [[Meetings/Meetings|Meetings]]
 - [[People/People|People]]
 - [[Projects/Projects|Projects]]
 - [[Reports/Reports|Reports]]
