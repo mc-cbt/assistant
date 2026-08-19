@@ -62,3 +62,9 @@ Titles, departments, reporting lines, and locations are reconciled against the [
 - [[People/Clay Andrus|Clay Andrus]] _(CFO — Finance)_
 - [[People/Joshua Cameron|Joshua Cameron]] _("Josh" — CEO)_
 - [[People/Michael Cameron|Michael Cameron]] _(Chairman of the Board)_
+- [[People/Kyle Casazza|Kyle Casazza]] _(Associate Product Manager — General Support; attends [[Velocity]] standup)_
+- [[People/Stephen Davidson|Stephen Davidson]] _(GDS Support Specialist — Operations; attends [[Velocity]] standup)_
+- [[People/Dawn Meadows|Dawn Meadows]] _(Senior Manager, Online & Support — General Support)_
+- [[People/Jeanine Eissler|Jeanine Eissler]] _(VP, Operations Systems and Support)_
+- [[People/Jeffrey Madsen|Jeffrey Madsen]] _(VP, Product GTM)_
+- [[People/Tonya Fernelius|Tonya Fernelius]] _(Accountant, ARC Process Flow and Audit — Administration; attends [[Blitz]] standup)_

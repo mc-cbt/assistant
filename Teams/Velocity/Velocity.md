@@ -6,6 +6,10 @@
 - **Jake Knowlton** — Software Developer
 - **Mitchell Cannon** ("Mitch") — Product Manager (PM)
 
+## Subfolders
+
+- [[Teams/Velocity/Standup/Standup|Standup]]
+
 ## Responsibilities
 
 - Maintaining the **legacy Air Portal** product.
