@@ -33,9 +33,10 @@ Titles, departments, reporting lines, and locations are reconciled against the [
 ## Awe ([[Awe]])
 
 - [[People/Dallas Norton|Dallas Norton]] _(Principal Engineer, Team Manager — lead)_
-- [[People/Jonathan Law|Jonathan Law]] _("JLaw")_
+- [[People/Jonathan Law|Jonathan Law]] _("JLaw" — team lead as of 2026-08-20)_
 - [[People/Maddie Petty|Maddie Petty]]
 - [[People/Brian Kingery|Brian Kingery]]
+- [[People/Kirsti Norton|Kirsti Norton]]
 
 ## Design ([[Design]])
 
@@ -46,7 +47,10 @@ Titles, departments, reporting lines, and locations are reconciled against the [
 
 ## Shock ([[Shock]])
 
+- [[People/Nathan Schultz|Nathan Schultz]] _(team lead as of 2026-08-20)_
 - [[People/Kevin Bailey|Kevin Bailey]]
+- [[People/Bobby Swingler|Bobby Swingler]]
+- [[People/Jacob Quinn|Jacob Quinn]] _("JQ"; reports to [[Chad Maughan]])_
 - [[People/Jessica Wright|Jessica Wright]] _([[Design]]; embedded with Shock)_
 
 ## Folio Matching ([[Projects/Folio Matching/Folio Matching|Folio Matching]])

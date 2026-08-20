@@ -30,6 +30,8 @@ Temporal!!!!
 ---
 
 - (2026-06-29, see [[Daily/2026-06-29]]) **Virtual cards admin** — [[Kyle Crowther]]'s epic, to be built by [[Peter Welty]] (currently blocked by DevOps). See [[Projects/Virtual Cards/Virtual Cards]].
+- (2026-08-20, see [[Teams/Blitz/Standup/2026-08-20]]) **ARC files contain unmasked card numbers** — both the legacy format and the new JSON file, including the new multiple-form-of-payment transactions. ARC offers **no masked-download option**, so the choice is the unmasked file or no file. We need to **mask or truncate at ingestion** (truncation is allowed under PCI); encryption alone isn't the answer since PCI cares about key origin, storage and access. Open question gating the design: **does expense need unmasked card data to match?** Reconciliation today matches on **ticket numbers** and doesn't. Prior art: masking to first-4/last-4 caused **false matches across clients**; first-6/last-4 behaved correctly. Mitigation available today — ARC masks per user in the UI but not in the file download, so **restrict who can download**. Follow-up owner: [[Mike Harris]] + [[James Proctor]] on ARC access.
+- (2026-08-20, see [[Teams/Blitz/Standup/2026-08-20]]) **Temporal is live** — namespaces for dev/stage/prod, deployed to prod with schedules per workflow and a successful test run. Old ARC scrape cron schedules to be decommissioned.
 
 ### Future priorities
 

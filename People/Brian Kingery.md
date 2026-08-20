@@ -1,9 +1,13 @@
 # Brian Kingery
 
 - **Team:** [[Awe]]
-- **Title:** _(TBD)_
-- **Department:** _(TBD)_
+- **Title:** Contract Developer
+- **Department:** Technology – Engineering
 - **Reports to:** _(TBD)_
 - **Location:** _(TBD)_
 
-> Not found in the [[People/Org Chart|Org Chart]] as of 2026-06-30 — fill in details when confirmed.
+> A **contract developer**, which is why he doesn't appear in the [[People/Org Chart|Org Chart]] — that export covers employees only.
+
+## Notes
+
+- (2026-08-20, see [[Teams/Awe/Standup/2026-08-20]]) Reviewed and approved [[Bobby Swingler]]'s **calendar PR**; wanted on the **web hotel** review session, where he'll help finish the filter cleanup.

@@ -7,3 +7,4 @@ Date-stamped notes from the Blitz daily standup.
 - [[Teams/Blitz/Standup/2026-06-30|2026-06-30]]
 - [[Teams/Blitz/Standup/2026-08-18|2026-08-18]]
 - [[Teams/Blitz/Standup/2026-08-19|2026-08-19]]
+- [[Teams/Blitz/Standup/2026-08-20|2026-08-20]]
