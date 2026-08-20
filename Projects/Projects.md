@@ -13,4 +13,5 @@
 - [[Projects/Offline Approvals/Offline Approvals|Offline Approvals]]
 - [[Projects/PR Dashboard/PR Dashboard|PR Dashboard]]
 - [[Projects/Trip Name/Trip Name|Trip Name]]
+- [[Projects/University Approval Workflow/University Approval Workflow|University Approval Workflow]]
 - [[Projects/Virtual Cards/Virtual Cards|Virtual Cards]]

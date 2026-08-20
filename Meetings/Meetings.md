@@ -13,3 +13,4 @@ Not every meeting needs a note. Standups generally don't; decisions do.
 ## Notes
 
 - [[Meetings/All-Hands Meeting 2026-08-18|All-Hands Meeting 2026-08-18]]
+- [[Meetings/Verbal Approval for University Events and Groups Meeting 2026-08-20|Verbal Approval for University Events and Groups Meeting 2026-08-20]]

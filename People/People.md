@@ -72,3 +72,5 @@ Titles, departments, reporting lines, and locations are reconciled against the [
 - [[People/Jeanine Eissler|Jeanine Eissler]] _(VP, Operations Systems and Support)_
 - [[People/Jeffrey Madsen|Jeffrey Madsen]] _(VP, Product GTM)_
 - [[People/Tonya Fernelius|Tonya Fernelius]] _(Accountant, ARC Process Flow and Audit — Administration; attends [[Blitz]] standup)_
+- [[People/Emily Drees|Emily Drees]] _(Senior Manager, Operations — Advisor Support; ops stakeholder on [[Projects/University Approval Workflow/University Approval Workflow|University Approval Workflow]])_
+- [[People/Elliot Frenzel|Elliot Frenzel]] _(Manager, Operations — General Full Service; requirements owner for [[Projects/University Approval Workflow/University Approval Workflow|University Approval Workflow]], handing off ~2026-09)_
