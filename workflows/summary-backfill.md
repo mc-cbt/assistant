@@ -365,27 +365,27 @@ per occurrence.
 - 09:45 — Awe Stand-up
 
 ### Mon 2026-08-17
-- 09:00 — Velocity Standup
+- 09:00 — Velocity Standup — **note filed:** [[Teams/Velocity/Standup/2026-08-17]]
 - 09:15 — Shock Stand-up
 - 09:30 — Blitz Standup
 - 09:45 — Awe Stand-up
 - 11:00 — Reconnect After GBTA: Supplier Relations & Principal Engineer _(Stacie Prusha)_
-- 14:00 — Github Issue Sync _(Dallas Norton)_
-- 15:30 — Holistic Arranger discovery planning _(Kyle Crowther)_
-- 16:00 — Discuss the Velocity Team _(me; 1:1 with Chad Maughan)_
+- 14:00 — Github Issue Sync _(Dallas Norton)_ — _not recorded; no transcript available_
+- 15:30 — Holistic Arranger discovery planning _(Kyle Crowther)_ — _not recorded; no transcript available_
+- 16:00 — Discuss the Velocity Team _(me; 1:1 with Chad Maughan)_ — _not recorded; no transcript available_
 
 ### Tue 2026-08-18
-- 09:00 — Velocity Standup
-- 09:00 — All-Hands Meeting _(company-wide)_
-- 09:15 — Shock Stand-up
+- 09:00 — Velocity Standup — **note filed:** [[Teams/Velocity/Standup/2026-08-18]]
+- 09:00 — All-Hands Meeting _(company-wide)_ — **note filed:** [[Meetings/All-Hands Meeting 2026-08-18]]
+- 09:15 — Shock Stand-up — **note filed:** [[Teams/Shock/Standup/2026-08-18]]
 - 09:30 — Blitz Standup — **note filed:** [[Teams/Blitz/Standup/2026-08-18]]
-- 09:45 — Awe Stand-up
+- 09:45 — Awe Stand-up — **note filed:** [[Teams/Awe/Standup/2026-08-18]]
 
 ### Wed 2026-08-19
-- 09:00 — Velocity Standup
-- 09:15 — Shock Stand-up
+- 09:00 — Velocity Standup — **note filed:** [[Teams/Velocity/Standup/2026-08-19]]
+- 09:15 — Shock Stand-up — _no transcript for this occurrence (attendees stayed on the Velocity call); skipped_
 - 09:30 — Blitz Standup — **note filed:** [[Teams/Blitz/Standup/2026-08-19]]
-- 09:45 — Awe Stand-up
+- 09:45 — Awe Stand-up — _recording captured ~1 min of room chatter only; nothing to summarize; skipped_
 
 ## Notes on this list
 
@@ -400,7 +400,8 @@ per occurrence.
   discount*. Flights are noted in the GBTA callout rather than listed as meetings.
 - **Recurring standups** run every workday: Velocity 09:00, Shock 09:15, Awe 09:45.
   **Blitz Standup** started **2026-06-22** at 09:45 and moved to **09:30** from 2026-06-26.
-- **Only 2 of these have notes in the vault so far** — both Blitz standups (08-18, 08-19).
-  Everything else is a backfill candidate. Transcripts only exist where the meeting was
+- **Notes filed so far:** Blitz standups (08-18, 08-19), Velocity standups (08-17, 08-18,
+  08-19), Shock standup (08-18), Awe standup (08-18), and the 08-18 All-Hands. Everything
+  else is still a backfill candidate. Transcripts only exist where the meeting was
   recorded, and the Graph transcript API was blocked tenant-wide until 2026-08-19, so
   older meetings may have transcripts reachable only through the Teams UI export route.

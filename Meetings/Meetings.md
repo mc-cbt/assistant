@@ -12,3 +12,4 @@ Not every meeting needs a note. Standups generally don't; decisions do.
 
 ## Notes
 
+- [[Meetings/All-Hands Meeting 2026-08-18|All-Hands Meeting 2026-08-18]]

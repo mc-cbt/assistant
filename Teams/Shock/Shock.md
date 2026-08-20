@@ -9,6 +9,10 @@
 
 - Handling more of the **travel admin use cases**.
 
+## Subfolders
+
+- [[Teams/Shock/Standup/Standup|Standup]]
+
 ## Notes
 
 _(Add ongoing notes, meetings, and decisions below.)_
